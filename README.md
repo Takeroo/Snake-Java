@@ -1,1 +1,1 @@
-Snake Java
+Snake
